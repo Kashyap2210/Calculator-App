@@ -9,4 +9,3 @@ In this Project I have used HTML, CSS to make the basic structure and give styli
 - eval() function.
 - Math.() functions.
 - else if statements.
--
